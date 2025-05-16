@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Jin Se Myung
 
-<!--
-**Se-myung-Jin/Se-myung-Jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 A passionate online game server developer from Korea  
+🔧 Mainly use C#  
+📚 Love building scalable backend systems  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- 🧰 Languages: C#
+- 🧠 Concepts: Distributed Systems, Game Server Architecture, Microservices
+- 📡 Tools: Kafka, NATS, Redis, AWS Cloud Service
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se-myung-Jin&show_icons=true&theme=default)
+
+## 📌 Pinned Projects
+- [AStar](https://github.com/Se-myung-Jin/AStar)
+- [ServerTool](https://github.com/Se-myung-Jin/ServerTool)
+
+## 📫 Contact
+- Email: tpaud94@gmail.com
