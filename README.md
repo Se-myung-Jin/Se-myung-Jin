@@ -12,6 +12,9 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se-myung-Jin&show_icons=true&theme=default)
 
+## 📈 Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aSe-myung-Jin&layout=donut)](https://github.com/aSe-myung-Jin/github-readme-stats)
+
 ## 📌 Pinned Projects
 - [AStar](https://github.com/Se-myung-Jin/AStar)
 - [ServerTool](https://github.com/Se-myung-Jin/ServerTool)
