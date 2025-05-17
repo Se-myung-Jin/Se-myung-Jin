@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jin Se Myung
 
-## Experience
+## 💻 Experience
 - 크래프톤
 - 해긴
 - 캐킷
