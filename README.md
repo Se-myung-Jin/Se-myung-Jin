@@ -15,10 +15,7 @@
 - 📡 Tools: Kafka, NATS, Redis, AWS Cloud Service
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se-myung-Jin&show_icons=true&theme=default)
-
-## 📈 Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se-myung-Jin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Se-myung-Jin&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se-myung-Jin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📌 Pinned Projects
 - [TCPServer](https://github.com/Se-myung-Jin/NetCoreServer)
