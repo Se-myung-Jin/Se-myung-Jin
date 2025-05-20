@@ -1,10 +1,5 @@
 # Hi 👋, I'm Jin Se Myung
 
-## 💻 Experience
-- 크래프톤
-- 해긴
-- 캐킷
-
 🎮 A passionate online game server developer from Korea  
 🔧 Mainly use C#  
 📚 Love building scalable backend systems 
