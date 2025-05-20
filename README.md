@@ -10,7 +10,7 @@
 📚 Love building scalable backend systems 
 
 ## 🚀 Skills
-- 🧰 Languages: C#
+- 🧰 Languages: C#, C++, Java
 - 🧠 Concepts: Distributed Systems, Game Server Architecture, Microservices
 - 📡 Tools: Kafka, NATS, Redis, AWS Cloud Service
 
