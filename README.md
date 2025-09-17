@@ -14,8 +14,6 @@
 
 ## 📌 Pinned Projects
 - [TCPServer](https://github.com/Se-myung-Jin/NetCoreServer)
-- [WebServer](https://github.com/Se-myung-Jin/NetCoreWebServer)
-- [ServerTool](https://github.com/Se-myung-Jin/ServerTool)
 - [MMORPG](https://github.com/Se-myung-Jin/MMORPG-Server)
 
 ## 📫 Contact
